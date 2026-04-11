@@ -73,3 +73,8 @@ npm run build
 
 - This is a demo repository intended for presentation and stakeholder review.
 - All data shown in the interface is mocked for safe external sharing.
+
+## Contact
+
+For software orders or custom development, contact: [https://t.me/mysql_b](https://t.me/mysql_b)
+
